@@ -49,13 +49,6 @@
 
 ---
 
-### 🧩 Pour afficher ce profil sur GitHub  
-
-1. Copie ce fichier et enregistre-le sous le nom **`README.md`**  
-2. Crée un dépôt **public** appelé **`StivenVihamba`** (le même que ton nom d’utilisateur GitHub)  
-3. Mets le fichier dans ce dépôt  
-4. Il s’affichera automatiquement sur la page d’accueil de ton profil GitHub 🎉  
-
 ---
 
 👨‍💻 *Merci de visiter mon profil — n’hésite pas à me suivre pour voir mes prochains projets !*
